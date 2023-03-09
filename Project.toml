@@ -1,0 +1,7 @@
+name = "pythoncallmre"
+uuid = "d7487601-008e-44a0-bfc9-a9e3a6b5224d"
+authors = ["josephsdavid <josephsd@smu.edu>"]
+version = "0.1.0"
+
+[deps]
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
